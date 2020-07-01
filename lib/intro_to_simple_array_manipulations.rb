@@ -14,10 +14,10 @@ def pop_with_args(array)
   array.pop(2)
 end
 
-def using_shift(my_favorite_cities)
-
+def using_shift(array)
+  
 end
 
-def shift_with_args(ice_cream_brands)
+def shift_with_args(array)
 
 end

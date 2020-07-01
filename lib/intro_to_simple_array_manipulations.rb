@@ -2,8 +2,8 @@ def using_push(array, string)
   array.push(string)
 end
 
-def using_unshift(bouroughs_in_nyc, new_neighborhood)
-
+def using_unshift(array, string)
+  array.unshift(string)
 end
 
 def using_pop(continents)
